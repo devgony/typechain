@@ -28,3 +28,4 @@ const henry = new Human("Henry", 29, "M");
 // 6. type in array
 let blockchain: Block[] = [genesisBlock];
 // 7. static function is callable, even if class is not instantiated
+// 8. TS is good for react, redux, express, graphQL
